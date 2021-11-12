@@ -23,7 +23,7 @@ def do_stuff():
   spot.fillcolor(B,R,O)
 #-----game configuration----
 score = 0
-font_setup = ("Comic Sans MS",30,"bold",)
+font_setup = ("Comic Sans MS",30,"bold")
 timer = 30
 counter_interval = 1000   #1000 represents 1 second
 timer_up = False
